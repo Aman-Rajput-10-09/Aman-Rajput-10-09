@@ -74,13 +74,6 @@
 
 ---
 
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aman-Rajput-10-09/Aman-Rajput-10-09/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ### 📈 Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aman-Rajput-10-09&color=blue&style=flat"/>
