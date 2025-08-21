@@ -4,14 +4,24 @@
 ---
 
 ### 🌐 Connect with me  
-[![Linkedin Badge](https://img.shields.io/badge/-AmanAnand-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aman-anand-65221b2a0)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat&logo=google-chrome&logoColor=white)](https://aman-rajput-10-09.github.io/AmanKMPPortfolio/)  
-[![Itch.io Badge](https://img.shields.io/badge/Games-itch.io-red?style=flat&logo=itch.io&logoColor=white)](https://aman-rajput-1009.itch.io/)  
+<p align="center">
+  <a href="https://linkedin.com/in/aman-anand-65221b2a0">
+    <img src="https://img.shields.io/badge/-AmanAnand-blue?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://aman-rajput-10-09.github.io/AmanKMPPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://aman-rajput-1009.itch.io/">
+    <img src="https://img.shields.io/badge/Games-itch.io-red?style=flat&logo=itch.io&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### ⌨️ Typing Animation  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F700&center=true&vCenter=true&lines=Android+Developer;Kotlin+Lover;Problem+Solver;Open+Source+Contributor;Tech+Explorer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F700&center=true&vCenter=true&lines=Android+Developer;Kotlin+Lover;Problem+Solver;Open+Source+Contributor;Tech+Explorer"/>
+</p>
 
 ---
 
@@ -57,29 +67,26 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-Rajput-10-09&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
 ### 📈 Activity Graph  
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Rajput-10-09&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Rajput-10-09&theme=react-dark"/>
+</p>
 
 ---
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Aman-Rajput-10-09/Aman-Rajput-10-09/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Aman-Rajput-10-09/Aman-Rajput-10-09/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ### 📈 Profile Views  
-![Profile views](https://komarev.com/ghpvc/?username=Aman-Rajput-10-09&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-Rajput-10-09&color=blue&style=flat"/>
+</p>
 
 ---
 
 ### 🎉 Fun Fact  
-⚡ I love building **cool Android apps**, experimenting with **AI/ML**, and exploring new **tech stacks** 🚀  
+⚡ I love building **cool Android apps**, experimenting with **AI/ML**, and exploring new **tech stacks** 🚀
