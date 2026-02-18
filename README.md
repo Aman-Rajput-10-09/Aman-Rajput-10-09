@@ -53,27 +53,6 @@
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-FF4088?logo=figma&logoColor=fff)  
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFD43B?logo=leetcode&logoColor=000)  
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Rajput-10-09&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aman-Rajput-10-09&theme=radical" height="180px"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Rajput-10-09&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📈 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Rajput-10-09&theme=react-dark"/>
-</p>
-
----
-
 ### 📈 Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aman-Rajput-10-09&color=blue&style=flat"/>
