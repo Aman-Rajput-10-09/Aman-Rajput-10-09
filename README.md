@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aman Anand</h1>
-<h3 align="center">🚀 Android Developer | 💻 Kotlin | 🎨 Jetpack Compose Enthusiast</h3>
 
 ---
 
