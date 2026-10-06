@@ -2,13 +2,14 @@
 
 ---
 
-### 🌐 Connect with me  
+### 🌐 Connect with me
+
 <p align="center">
   <a href="https://linkedin.com/in/aman-anand-65221b2a0">
     <img src="https://img.shields.io/badge/-AmanAnand-blue?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://aman-rajput-10-09.github.io/AmanKMPPortfolio/">
-    <img src="https://my-react-portfolio-khaki-xi.vercel.app-orange?style=flat&logo=google-chrome&logoColor=white"/>
+  <a href="https://my-react-portfolio-khaki-xi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://aman-rajput-1009.itch.io/">
     <img src="https://img.shields.io/badge/Games-itch.io-red?style=flat&logo=itch.io&logoColor=white"/>
