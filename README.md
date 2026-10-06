@@ -60,4 +60,4 @@
 ---
 
 ### 🎉 Fun Fact  
-⚡ I love building **cool Android apps**, experimenting with **AI/ML**, and exploring new **tech stacks** 🚀
+⚡ I love building **cool Android apps**, **Scalable backends** experimenting with **AI/ML**, and exploring new **tech stacks** 🚀
