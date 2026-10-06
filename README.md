@@ -19,7 +19,7 @@
 
 ### ⌨️ Typing Animation  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F700&center=true&vCenter=true&lines=Android+Developer;Kotlin+Lover;Problem+Solver;Open+Source+Contributor;Tech+Explorer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F700&center=true&vCenter=true&lines=FastAPI;Python;Android+Developer;Kotlin+Lover;Problem+Solver;Open+Source+Contributor;Tech+Explorer"/>
 </p>
 
 ---
